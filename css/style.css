@@ -1,0 +1,139 @@
+#main-header img {
+  width: 100%;
+  height: 100%;
+}
+
+#main-header .port-item {
+  width: 30%;
+}
+
+#main-header .port-item:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.bg-black {
+  color: white;
+  background: black;
+}
+/*---------------------------------------------------------*/
+.cursos {
+  background-color: #D39F34;
+}
+
+.experiencia {
+  background-color: #147C6D;
+}
+
+.inicio {
+  background-color: #0A75AD;
+}
+/*---------------------------------------------------------*/
+.lead {
+  text-align: justify;
+}
+.csc {
+  margin-top: 100px;
+}
+
+.cscc{
+  margin-top: 50px;
+}
+
+.cs:hover {
+  background-color: #77cbec;
+  color:#fff;
+  font-size: 1.3rem;
+}
+
+.att {
+  margin-top: 100px;
+}
+
+.attt {
+  margin-top: 50px;
+}
+
+.at:hover {
+  background-color: #009fdb;
+  color:#fff;
+  font-size: 1.3rem;
+}
+
+.urma {
+  margin-top: 62px;
+}
+
+.urmaa {
+  margin-top: 50px;
+}
+
+.ur:hover {
+  background-color: #ffe900;
+  color:#000;
+  font-size: 1.3rem;
+}
+
+.cx {
+  margin-top: 58px;
+}
+
+.cxx {
+  margin-top: 87px;
+}
+/*---------------------------------------------------------*/
+.card-title {
+  font-size: 2.3rem;
+}
+/*---------------------------------------------------------*/
+.cine:hover {
+  background-color: #cf112b;
+  color:#fff;
+  font-size: 1.3rem;
+}
+
+.d {
+  text-align: center;
+}
+
+.d:hover {
+  background-color: #0a0a0a;
+  color: #fff;
+}
+/*---------------------------------------------------------*/
+.cur {
+  margin: 50px;
+}
+/*---------------------------------------------------------*/
+.tel {
+  margin-left: 6px;
+  margin-right: 50px;
+}
+
+
+.cor {
+  margin-top: 40px;
+  margin-right: 42px;
+}
+
+.li {
+  margin-left: 7px;
+  margin-top: 40px;
+  margin-right: 42px;
+}
+
+.link a {
+  text-decoration: none;
+  color: #000;
+}
+
+.contact-section {
+  padding: 15%;
+  font-size: 25px;
+}
+
+@media(min-width: 1199px) {
+  .port-item{
+    padding: 3em !important;
+  }
+}
+
